@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nintendo</title>
+  <link rel="stylesheet" type="text/css" href="./resources/css/reset.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="./resources/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./resources/js/nintendo.js"></script>
+</head>
+  <body>
+    <!-- Create the navigation bar below -->
+    <div class="container-fluid">
+      <div class="row header">
+        <h1> Nintendo </h1>
+      </div>
+    </div>
+
+    <div class="consoles">
+
+      <div class="col-md-5 col-md-offset-1 system nes" align="center">
+        <h3>Nintendo Entertainment System</h3>
+
+        <a href="#nesTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: Super Mario Bros. 3</a> <br>
+        <div id="nesTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">2: The Legend of Zelda</a> <br>
+        <div id="nesTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">3: Mega Man 2</a> <br>
+        <div id="nesTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">4: Metroid</a> <br>
+        <div id="nesTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">6: Mega Man 3</a> <br>
+        <div id="nesTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">7: Super Mario Bros. </a> <br>
+        <div id="nesTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">8: Super Techmo Bowl </a> <br>
+        <div id="nesTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">9: Bubble Bobble </a> <br>
+        <div id="nesTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nesTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">10: Super Mario Bros. 2</a> <br>
+        <div id="nesTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 system superNes" align="center">
+        <h3>Super Nintendo</h3>
+        <a href="#superNesTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#superNesTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#superNesTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="superNesTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 col-md-offset-1 system nintendo64Top" align="center">
+        <h3>Nintendo 64</h3>
+        <a href="#nintendo64Top10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#nintendo64Top10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#nintendo64Top10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="nintendo64Top10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 system gamecube" align="center">
+        <h3>GameCube</h3>
+        <a href="#gamecubeTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#gamecubeTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#gamecubeTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="gamecubeTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 col-md-offset-1 system wii" align="center">
+        <h3>Wii</h3>
+        <a href="#wiiTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#wiiTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 system wiiU" align="center">
+        <h3>Wii U</h3>
+        <a href="#wiiUTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#wiiUTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#wiiUTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="wiiUTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 col-md-offset-1 system switch" align="center">
+        <h3>Switch</h3>
+        <a href="#switchTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#switchTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#switchTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="switchTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+      <div class="col-md-5 system handheld" align="center">
+        <h3>Switch</h3>
+        <a href="#handheldTop10-1"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-1" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: where she'd been lost since the 1980s. Janet, a.k.a. the original Wasp, emerges from that strange microverse
+          a changed woman, now in command of some kind of mysterious powers which enable her to temporarily, at least, help Ghost
+          keep it together. Quite literally, as that character had spent most of the film slowly being torn apart by her own phasing powers.
+          In the end, Ghost escapes with her surrogate dad Bill Foster, Hank and Janet set off to build a new life with one another
+          in a house on the beach, and Scott completes his two years of house arrest and can finally take his daughter out for ice cream again. Except...
+          The first post-credits scene reveals that Team Ant-Man has regathered to explore the dangerous Quantum Realm some more. Hank
+          and Janet have designed a smaller version of the gateway seen earlier in the film, and have set it up in the back of Scott’s
+          pal Luis’ van for some reason. <br>
+        </div>
+
+        <a href="#handheldTop10-2"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-2" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-3"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-3" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-4"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-4" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-5"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-5" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-6"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-6" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-7"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-7" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-8"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-8" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-9"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-9" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+        <a href="#handheldTop10-10"class="btn btn-info gameTitle" data-toggle="collapse">1: The Legend of Zelda</a> <br>
+        <div id="handheldTop10-10" class="collapse gameInfo">
+          <img src="./resources/images/It's_dangerous_to_go_alone!_Take_this.png" class="gameIcon"> <br>
+          Release Date: 1986 <br>
+          Meta: <br>
+          Ign: <br>
+          Review: <br>
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
